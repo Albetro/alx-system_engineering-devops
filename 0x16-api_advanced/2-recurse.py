@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 '''A python script to use Reddit's API'''
+
 import requests
 
 

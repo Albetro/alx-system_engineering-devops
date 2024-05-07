@@ -12,7 +12,7 @@ def count_words(subreddit, word_list, count_list=[], next_page=None):
     word_list - A list of keywords to count
     count_list - List to store counts of each keyword
     next_page - keeps track of the pagination tkn for the next
-    page of results
+    page of results.
     """
 
     if not count_list:  # initializes count_list to empty
